@@ -1,0 +1,2 @@
+This is the second file.
+It is introduced on a new branch `my-branch`
